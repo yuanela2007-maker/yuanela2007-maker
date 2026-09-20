@@ -5,6 +5,8 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/UCR-Inform%C3%A1tica_Empresarial-7c3aed?style=for-the-badge&labelColor=0d0d0d" alt="UCR Informática Empresarial" />
+<img src="https://img.shields.io/badge/Developer-Software-a855f7?style=for-the-badge&labelColor=0d0d0d" alt="Developer" />
+<img src="https://img.shields.io/badge/Status-Activa-7c3aed?style=for-the-badge&labelColor=0d0d0d" alt="Status" />
 
 </div>
 
@@ -16,7 +18,7 @@
 <tr>
 <td>
 
-Estudiante de Informática Empresarial en la Universidad de Costa Rica. Enfoque orientado al desarrollo de software, modelado de bases de datos y arquitectura de sistemas. Perfil enfocado en la resolución analítica de problemas, la adaptabilidad tecnológica y el crecimiento técnico continuo.
+¡Hola! Me llaman Ani. Cursando la carrera de Informática Empresarial en la Universidad de Costa Rica, disfruto transformando problemas complejos en soluciones tecnológicas eficientes. Me apasiona entender cómo funcionan las cosas desde la base, combinando la lógica del desarrollo de software con una mentalidad analítica y orientada a la mejora continua.
 
 </td>
 </tr>
