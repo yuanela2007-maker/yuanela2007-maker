@@ -1,40 +1,22 @@
-<!-- ============================================================
-     README de perfil de GitHub - Ani
-     Paleta: negro (#0d0d0d) + morado (#a855f7 / #7c3aed)
-
-     ANTES DE SUBIR:
-     1) Reemplaza TU_USUARIO por tu usuario real (aparece 2 veces)
-     2) Sube tambien la carpeta assets/ (contiene typing.svg)
-     ============================================================ -->
-
 <div align="center">
 
-<!-- Banner animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:a855f7&height=220&section=header&text=Hola,%20soy%20Ani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Inform%C3%A1tica%20Empresarial%20%C2%B7%20UCR&descSize=18&descAlignY=58" width="100%" alt="banner"/>
-
-<!-- Texto con efecto de escritura (archivo propio, no depende de servicios externos) -->
-<img src="assets/typing.svg" alt="Curiosa por naturaleza, aprendiendo algo nuevo cada día" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/UCR-Inform%C3%A1tica_Empresarial-7c3aed?style=for-the-badge&labelColor=0d0d0d" alt="UCR Informática Empresarial" />
-<img src="https://img.shields.io/badge/Cuatrimestre-4-a855f7?style=for-the-badge&labelColor=0d0d0d" alt="Cuatrimestre 4" />
-<img src="https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0d0d&color=7c3aed" alt="Seguidores" />
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 <table>
 <tr>
 <td>
 
-💜 Me conocen como **Ani**  
-🎓 Cursando el **4.º cuatrimestre** de **Informática Empresarial** en la **Universidad de Costa Rica**  
-🔍 Soy una chica curiosa que siempre trata de esforzarse para hacerlo mejor cada vez, **sin rendirme**  
-📖 Este perfil es mi bitácora: aquí muestro **lo que voy aprendiendo**
+Estudiante de Informática Empresarial en la Universidad de Costa Rica. Enfoque orientado al desarrollo de software, modelado de bases de datos y arquitectura de sistemas. Perfil enfocado en la resolución analítica de problemas, la adaptabilidad tecnológica y el crecimiento técnico continuo.
 
 </td>
 </tr>
@@ -42,25 +24,24 @@
 
 ---
 
-## 🌱 Lo que he visto hasta ahora
+## Trayectoria Académica y Técnica
 
 <details open>
 <summary><b>Click para ver / ocultar</b></summary>
 <br/>
 
-| Área | Qué he trabajado |
-|:-----|:-----------------|
-| 🐍 **Programación** | Lógica de programación, Python y Java |
-| 🗄️ **Bases de datos** | Diseño, modelado y consultas |
-| 🌐 **Redes** | Funcionamiento y manejo de redes (práctica con Cisco Packet Tracer) |
-| 🕸️ **Web** | Fundamentos del desarrollo web |
-| 🔌 **APIs** | Consumo y funcionamiento de APIs |
+| Área | Tecnologías y Enfoques |
+|:-----|:-----------------------|
+| Desarrollo de Software | Lógica computacional, Python, Java y estructuras de datos |
+| Gestión de Bases de Datos | Modelado entidad-relación, diseño y optimización de consultas SQL |
+| Infraestructura y Redes | Arquitectura de redes y simulación mediante Cisco Packet Tracer |
+| Desarrollo Web y APIs | Fundamentos de tecnologías web e integración de servicios |
 
 </details>
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 <div align="center">
 
@@ -80,22 +61,7 @@
 
 ---
 
-## 📚 Aprendiendo ahora
-
-<div align="center">
-
-| Tema | Estado |
-|:-----|:------:|
-| Redes (VLSM, EIGRP, OSPF) | <img src="https://img.shields.io/badge/En_progreso-a855f7?style=flat-square&labelColor=0d0d0d" alt="En progreso" /> |
-| Java y programación orientada a objetos | <img src="https://img.shields.io/badge/En_progreso-a855f7?style=flat-square&labelColor=0d0d0d" alt="En progreso" /> |
-| Bases de datos | <img src="https://img.shields.io/badge/En_progreso-a855f7?style=flat-square&labelColor=0d0d0d" alt="En progreso" /> |
-| Desarrollo web y APIs | <img src="https://img.shields.io/badge/En_progreso-a855f7?style=flat-square&labelColor=0d0d0d" alt="En progreso" /> |
-
-</div>
-
----
-
-## 🔥 Mi constancia
+## Actividad y Constancia
 
 <div align="center">
 
@@ -105,22 +71,8 @@
 
 ---
 
-## 💬 Una frase que me representa
-
-<div align="center">
-
-<blockquote>
-<i>Cada error es una lección, cada intento me acerca más.</i><br/>
-— Ani
-</blockquote>
-
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:0d0d0d&height=120&section=footer" width="100%" alt="footer"/>
-
-**💜 Gracias por pasar por mi perfil 💜**  
-*Sigo aprendiendo, sigo creciendo.*
 
 </div>
