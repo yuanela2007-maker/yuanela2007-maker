@@ -18,7 +18,7 @@
 <tr>
 <td>
 
-¡Hola! Me llaman Ani. Cursando la carrera de Informática Empresarial en la Universidad de Costa Rica, disfruto transformando problemas complejos en soluciones tecnológicas eficientes. Me apasiona entender cómo funcionan las cosas desde la base, combinando la lógica del desarrollo de software con una mentalidad analítica y orientada a la mejora continua.
+Hola, soy Ani. Estoy cursando la carrera de Informática Empresarial en la Universidad de Costa Rica
 
 </td>
 </tr>
