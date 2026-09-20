@@ -18,7 +18,8 @@
 <tr>
 <td>
 
-Hola, soy Ani. Estoy cursando la carrera de Informática Empresarial en la Universidad de Costa Rica
+Hola, soy Ani. Estoy cursando la carrera de Informática Empresarial en la Universidad de Costa Rica.
+Hice este repositorio de github como una bitacora para dejar constancia de lo que se hacer y guardar mis proyectos personales
 
 </td>
 </tr>
